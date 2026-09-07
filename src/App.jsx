@@ -350,7 +350,7 @@ export default function IpCidrTool() {
 
   return (
     <div style={styles.root}>
-      <Header title="IP & CIDR Toolkit" repoUrl={REPO_URL} />
+      <Header repoUrl={REPO_URL} />
       <div style={styles.content}>
       <h1 style={styles.title}>IP &amp; CIDR Toolkit</h1>
       <p style={styles.subtitle}>Subnet math, splitting, IP info, and a netmask reference — all computed locally, nothing leaves the browser.</p>

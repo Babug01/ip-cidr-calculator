@@ -1,5 +1,7 @@
 # IP & CIDR Calculator
 
+**Live demo:** https://babug01.github.io/ip-cidr-calculator/
+
 Subnet math, subnet splitting, single-IP info, and a netmask reference — the four things I always
 end up needing from an IP calculator, in one page. Runs entirely in the browser; nothing you type
 ever leaves your machine.
